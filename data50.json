@@ -1,0 +1,382 @@
+{
+   "locations":[
+      {
+         "name":"DCS",
+         "coords":[
+            -20.16782,
+            57.48314
+         ]
+      },
+      {
+         "name":"Voila Hotel",
+         "coords":[
+            -20.22442,
+            57.49452
+         ]
+      },
+      {
+         "name":"Intercontinental",
+         "coords":[
+            -20.08292,
+            57.517429
+         ]
+      },
+      {
+         "name":"Lagoon Attitude Hotel",
+         "coords":[
+            -20.01511,
+            57.58171
+         ]
+      },
+      {
+         "name":"ClubMed ",
+         "coords":[
+            -20.00447,
+            57.56293
+         ]
+      },
+      {
+         "name":"LUX Grand Gaube Resort & Villas",
+         "coords":[
+            -20.02255,
+            57.65055
+         ]
+      },
+      {
+         "name":"One&Only Le Saint Géran",
+         "coords":[
+            -20.0924,
+            57.69941
+         ]
+      },
+      {
+         "name":"Holiday inn",
+         "coords":[
+            -20.2833,
+            57.549999
+         ]
+      },
+      {
+         "name":"Sofitel ",
+         "coords":[
+            -20.27865,
+            57.37215
+         ]
+      },
+      {
+         "name":"The St. Regis Mauritius Resort",
+         "coords":[
+            -20.43979,
+            57.322
+         ]
+      },
+      {
+         "name":"SSR International Airport",
+         "coords":[
+            -20.429712,
+            57.66075
+         ]
+      },
+      {
+         "name":"Dr AG Jeetoo Hospital",
+         "coords":[
+            -20.17258,
+            57.505
+         ]
+      },
+      {
+         "name":"Moka E.N.T Hospital",
+         "coords":[
+            -20.21743,
+            57.49222
+         ]
+      },
+      {
+         "name":"Beau Plateau Hall Goodlans",
+         "coords":[
+            -20.050672,
+            57.650467
+         ]
+      },
+      {
+         "name":"Mediclinic Goodlands",
+         "coords":[
+            -20.043036,
+            57.651575
+         ]
+      },
+      {
+         "name":"NTA",
+         "coords":[
+            -20.169347,
+            57.483291
+         ]
+      },
+      {
+         "name":"Chamarel Clothes Casis",
+         "coords":[
+            -20.166567,
+            57.480675
+         ]
+      },
+      {
+         "name":"School Valijee",
+         "coords":[
+            -20.169515,
+            57.47914
+         ]
+      },
+      {
+         "name":"Royal College Port Louis",
+         "coords":[
+            -20.164553,
+            57.486008
+         ]
+      },
+      {
+         "name":"Rajiv Gandhi Science Center",
+         "coords":[
+            -20.17271,
+            57.484406
+         ]
+      },
+      {
+         "name":"Chinese Cultur Centre PL",
+         "coords":[
+            -20.171939,
+            57.485227
+         ]
+      },
+      {
+         "name":"SWAN Insurance PL",
+         "coords":[
+            -20.163499,
+            57.503568
+         ]
+      },
+      {
+         "name":"CIM group PL",
+         "coords":[
+            -20.164916,
+            57.50176
+         ]
+      },
+      {
+         "name":"Intrasia Management PL",
+         "coords":[
+            -20.164951,
+            57.50126
+         ]
+      },
+      {
+         "name":"OneOone",
+         "coords":[
+            -20.163407,
+            57.501383
+         ]
+      },
+      {
+         "name":"Museum PL",
+         "coords":[
+            -20.163015,
+            57.502206
+         ]
+      },
+      {
+         "name":"Telecom PL",
+         "coords":[
+            -20.164162,
+            57.50096
+         ]
+      },
+      {
+         "name":"Café PL",
+         "coords":[
+            -20.163707,
+            57.500543
+         ]
+      },
+      {
+         "name":"JR school PL",
+         "coords":[
+            -20.167901,
+            57.497359
+         ]
+      },
+      {
+         "name":"Keiffel Tour PL",
+         "coords":[
+            -20.168424,
+            57.497263
+         ]
+      },
+      {
+         "name":"Busy B RH",
+         "coords":[
+            -20.23223,
+            57.471782
+         ]
+      },
+      {
+         "name":"Jumbo RH",
+         "coords":[
+            -20.233579,
+            57.470387
+         ]
+      },
+      {
+         "name":"CLBS RH",
+         "coords":[
+            -20.234052,
+            57.472468
+         ]
+      },
+      {
+         "name":"Pirates Pizza RH",
+         "coords":[
+            -20.234299,
+            57.470647
+         ]
+      },
+      {
+         "name":"Krem Krepz",
+         "coords":[
+            -20.235922,
+            57.471419
+         ]
+      },
+      {
+         "name":"Church RH",
+         "coords":[
+            -20.235611,
+            57.470985
+         ]
+      },
+      {
+         "name":"Pro Tuning RH",
+         "coords":[
+            -20.236618,
+            57.471726
+         ]
+      },
+      {
+         "name":"Landscope EB",
+         "coords":[
+            -20.244818,
+            57.491665
+         ]
+      },
+      {
+         "name":"Anex LTD EB",
+         "coords":[
+            -20.24513,
+            57.490026
+         ]
+      },
+      {
+         "name":"Vistra EB",
+         "coords":[
+            -20.246505,
+            57.486327
+         ]
+      },
+      {
+         "name":"Absa EB",
+         "coords":[
+            -20.243667,
+            57.493794
+         ]
+      },
+      {
+         "name":"Intermart EB",
+         "coords":[
+            -20.242962,
+            57.488237
+         ]
+      },
+      {
+         "name":"Boucherie Moka",
+         "coords":[
+            -20.223599,
+            57.517626
+         ]
+      },
+      {
+         "name":"Eclosia Moka",
+         "coords":[
+            -20.223088,
+            57.516813
+         ]
+      },
+      {
+         "name":"Gentilly Moka",
+         "coords":[
+            -20.223037,
+            57.518836
+         ]
+      },
+      {
+         "name":"Royal College CPP",
+         "coords":[
+            -20.317894,
+            57.523253
+         ]
+      },
+      {
+         "name":"Municipality of CPP",
+         "coords":[
+            -20.31914,
+            57.525488
+         ]
+      },
+      {
+         "name":"KFC CPP",
+         "coords":[
+            -20.321561,
+            57.526469
+         ]
+      },
+      {
+         "name":"Loreto CPP",
+         "coords":[
+            -20.320952,
+            57.523404
+         ]
+      },
+      {
+         "name":"Crocodile RA",
+         "coords":[
+            -20.496098,
+            57.563393
+         ]
+      },
+      {
+         "name":"Kovil RA",
+         "coords":[
+            -20.496745,
+            57.555907
+         ]
+      },
+      {
+         "name":"Senneville RA",
+         "coords":[
+            -20.501697,
+            57.556743
+         ]
+      },
+      {
+         "name":"Educational BA",
+         "coords":[
+            -20.258015,
+            57.757907
+         ]
+      },
+      {
+         "name":"Bobby BA",
+         "coords":[
+            -20.261578,
+            57.759194
+         ]
+      }
+   ]
+}
